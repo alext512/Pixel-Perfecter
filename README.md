@@ -56,3 +56,6 @@ Whether the results are good or not depend on the characteristics of the input i
 
 # Notice 2
 This script was made for fun in one day in Google Colab in 21 Jul 2023, and was then refined a bit to work as a standalone script (as well as a few other minor changes). I like pixel art, and I had this random idea about creating real, pixel perfect art from AI. And this was the result Hopefully this may give some ideas to other people!
+
+# 🪪 License
+This project is licensed under the **MIT License** — see the [LICENSE](./LICENSE) file for details.
