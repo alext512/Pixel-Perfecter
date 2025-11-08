@@ -55,4 +55,4 @@ The parameters are:
 Whether the results are good or not depend on the characteristics of the input image. The process has a few flaws. For example, if an image has too few edges in some places, these won't be detected and the converted image might be distorted. Too many edges can also cause problems, in part because DBSCAN may merge them into one edge. Tweaking the parameters a bit can help, but not always.
 
 # Notice 2
-This script was made for fun in a day in Google Colab in 21 Jul 2023, and was then refined a bit to work as a standalone script (as well as a few other minor changes). I like pixel art, and I had this random idea about creating real, pixel perfect art from AI. And this was the result Hopefully this may give some ideas to other people!
+This script was made for fun in one day in Google Colab in 21 Jul 2023, and was then refined a bit to work as a standalone script (as well as a few other minor changes). I like pixel art, and I had this random idea about creating real, pixel perfect art from AI. And this was the result Hopefully this may give some ideas to other people!
